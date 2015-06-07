@@ -1,0 +1,19 @@
+{
+    "name": "nobil-ws-proxy",
+    "version": "1.0.0",
+    "author": {
+        "name": "Trygve Lie",
+        "email": "post@trygve-lie.com"
+    },
+    "description": "proxy",
+    "main": "./bin/server.js",
+    "scripts": {
+        "start": "node ./bin/server.js"
+    },
+    "engines": {
+        "node": "0.10.x"
+    },
+    "dependencies": {
+        "ws": "0.4.x"
+    }
+}
