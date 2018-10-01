@@ -1,5 +1,7 @@
 # Nobil WebSocket Proxy
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/trygve-lie/nobil-ws-proxy.svg)](https://greenkeeper.io/)
+
 A tiny server which will proxy the Nobil Real Time stream API
 
 
